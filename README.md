@@ -29,7 +29,3 @@ O código é dividido em uma classe chamada `calculadora` com o seguinte comport
 2. **Entrada de dados**: Pede ao usuário para inserir dois valores numéricos.
 3. **Operações matemáticas**: Realiza a operação correspondente à escolha do usuário utilizando métodos auxiliares (`soma`, `subtracao`, `multiplicacao`, `divisao`).
 4. **Controle de fluxo**: O programa continua a solicitar operações até que o usuário escolha a opção de sair.
-
-## Código
-
-```java
